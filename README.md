@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : johnlee16696@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: John
+- ⚡ Fun fact: I m coder + Gymrat
 
 <!---
 johnlee300/johnlee300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
