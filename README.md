@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : johnlee16696@gmail.com
 - 😄 Pronouns: John
-- ⚡ Fun fact: I m coder + Gymrat
+- ⚡ Fun fact: Movies Movies Movies 
 
 <!---
 johnlee300/johnlee300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
